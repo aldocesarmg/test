@@ -1,3 +1,4 @@
+<?php  ?>
 <html>
 	<body>
 		<form action="formget.php" method="get">
